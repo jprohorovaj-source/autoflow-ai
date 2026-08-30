@@ -1,4 +1,10 @@
 # AutoFlow AI
+---
+## Автор проекта
+* **Юлия Прохорова** — [Data Analyst / Junior ML-Engineer](https://clck.ru/3VWkJ2)
+* **Email:** prohorova_j@inbox.ru
+* **Телефон:** +7 988 (588-60-00)
+* **Telegram:** @j_u_l_i_p_r_o_k_h_o_r_o_v_a
 
 ### Autonomous Data-to-Decision Optimization Platform
 
