@@ -62,7 +62,7 @@ Production Interface
 Final Model Audit
 ```
 
-Основной сценарий проекта — автоматическая классификация обращений граждан на основе открытого датасета **NYC 311 Service Requests**.
+Основной сценарий проекта — автоматическая классификация обращений граждан на основе открытого датасета **NYC 311 Service Requests**. Полный воспроизводимый Notebook проекта доступен на [Kaggle — AutoFlow AI](https://www.kaggle.com/code/prohorova/autoflow-ai)
 
 ---
 
