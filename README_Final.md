@@ -5,8 +5,8 @@
 ## Автор проекта
 
 **Юлия Прохорова** — [Data Analyst / Junior ML-Engineer](https://clck.ru/3VWkJ2) 
-Email: prohorova_j@inbox.ru  
-Telegram: @j_u_l_i_p_r_o_k_h_o_r_o_v_a
+* Email: prohorova_j@inbox.ru  
+* Telegram: @j_u_l_i_p_r_o_k_h_o_r_o_v_a
 
 ---
 
