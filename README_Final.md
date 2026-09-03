@@ -1,6 +1,12 @@
 # AutoFlow AI — Autonomous Data-to-Decision Platform
 
-> От данных к решению — без ручного прохождения ML pipeline.
+> **От данных к решению — без ручного прохождения ML pipeline.**
+
+[![Status](https://img.shields.io/badge/status-in--development-orange)]()
+[![Python](https://img.shields.io/badge/Python-3.x-blue)]()
+[![DuckDB](https://img.shields.io/badge/DuckDB-Big%20Data-yellow)]()
+[![ML](https://img.shields.io/badge/ML-production--oriented-green)]()
+[![Kaggle](https://img.shields.io/badge/Runtime-Kaggle-20BEFF)]()
 
 ## Автор проекта
 
