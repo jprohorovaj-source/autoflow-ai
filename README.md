@@ -84,10 +84,10 @@ Final Model Audit
 > для опубликованной версии Notebook.
 > 
 > ## Production Extension
-
+>
 > Текущая Kaggle-версия реализует production logic внутри
 > воспроизводимого offline-batch pipeline.
-
+>
 > Для промышленной эксплуатации следующий инженерный слой —
 > вынесение inference и routing в отдельный сервис с API/CLI,
 > централизованным хранилищем артефактов, очередью задач,
